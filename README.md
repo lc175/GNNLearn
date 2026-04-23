@@ -34,21 +34,6 @@ pip install -r requirements.txt
 - `matplotlib`：绘图库
 - `jupyter` / `notebook`：运行 notebook 文件
 
-## 运行方式
-
-启动 Jupyter Notebook：
-
-```bash
-jupyter notebook
-```
-
-然后打开：
-
-```text
-Cora_networks.ipynb
-```
-
-按照 notebook 中的顺序运行代码即可。
 
 ## Notebook 内容说明
 
